@@ -1,0 +1,127 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : TPLC_BRW_BAR
+ major_version : 28
+ minor_version : 0
+ type : 20
+ description : ""
+ subtype : 0
+window :
+ name : TPLC_BRW_BAR
+ identifier : 0x286d0b6418057512
+ internal_properties : CAAAAAgAAABQB3Hg0vySzHQQEHFpe0MWGtjzP+7+qZ7lW/qbjCBDUf0/qWkOBx2m409+HW5F4IZLINEZIjRUFvdVvjN/vDfKm9712hs9vpGbbK8xZ8abceALu8XY7YnevK9Q90thLTNzcxLIRYqTUfxEXSA8DxVqKYapjJsj2q9O85QyFHx64LyP9kQ42axytrf2MLLTBlG5nK2EfDaRzODqBF2gejtG1ofARJhJXnwfYOc2a1yzQb/+KdPkH6GeDv8eYZkThZRpq8ARDYXCGn4j5Jmi/bU/YpTwx7Z9nk0AoyrGss41w5SaJJjcd1RUVVIWFf/0C8wEuREvHUiNZVgy8UV/G8XnTs4gF/ZdcSkbht3JdS1VCo+GWFD/VQp8oLYBFNwiaNjeKVlfq8tR7mhDWTdxq4yawRvpRRVdojPm1mzVRJf02HnoC+/vt1yXcSjg5NHaqA+KbGZycEZe6WOndHvCNTRM4ela43FnJwMvCY8p8hNiM3XCk9Zz/6w2T9olezp5pR4+W6h6AukAcqZgDn7nCu0TH/77sFBB/KkU+bEHKV4Owe3YU1X1zQqrS4iIgvd+/sHqiyRuCyyNmfdubITXK7FxNdJpyyOul9faiUt6m5grhFhSTZeQRXdh0huAdamwb0+24rqltDcqQaF4QHMZUSN1MAUsxMhE3vUAxwcCfRFCQiX+N6TQ1NTH2vxgpCs3BywlOSlqC3xBCfP9pCmJyBsIC3CnEHMvnrOBhu6Oxyywqvt5OXOJTDlV5S4YaminiGRXabgUwiUrHRuwImWWsNES5SGlaBibFYd3CUMt4Gm4YCav5wlkoFxte2aPNOvc
+ properties :
+  width : 750
+  height : 48
+ controls :
+  -
+    name : TPLC_BRW_BAR
+    identifier : 0x286d0b6418067512
+    internal_properties : CAAAAAgAAACuQZubBbsW4416YqYvFNB+jjZW4r7Fd31LiADCtk1FdoPoJo8sMo0vhfkXvlVfhYPtixDaDwTsX4xm7MUq5GS+NiZMixBgT38yDR4Us4T+W9dvG3YqpXZvqk/DcSqT5oXxJzW6vHLMbY1z0aW/HhAk55V7CcrZpGFvsU/A/JcF1Z58mf9dKOcbjkdIHbeoY+rj/covIdMPD8/NrEbBNcHjbEooKDAdCZkUecJIDDsQVTN7eieTAYEPX4iw61trmWvirrfWaHusLLiAlyT0na5sqguIrd/goO3d/GgQUePJqqExqHxuofVcpSRi9ohRd0wJWF/wPBD5UwxEm0i4VCZR2VydmI06rBEfY9KMkpG+lhLlvoU1ulFgHy+yijYz6nKrkxM3BEutErBkSMNrJ++lscSJB563u8fb/U1JEg/f8L1jxwTLvARFuyrf0vKSvHuVXjofLTc/bwb3zn24P0BSjG+HImNIphX2R48=
+    properties :
+     width : 750
+     height : 48
+    controls :
+     -
+       name : BTN_BACK
+       identifier : 0x286d0b6418097512
+       internal_properties : CAAAAAgAAAD6pTtoTuENBcku/ZHOYToXXnysfJkJAGaFitqz4p9KFmBVVjRURx3LAppFEHF2/xp5kTvL5+WHYn6MleJ/zaOrReBxcfbG0JA6WBZp5wTVzMTViU9ZxOr576iKVbSzvyYEqfcHDR2uTTKuu2WgvwbkuRiwoM3+saqeUyDnHnXd9oKqmju89MgjyOrcnzy2grHCYcGVdVLjmxPeZ2RShGkoLAXIB55nyz67tjOolCHNIaCYABHLlcvJnoTBsoe7l0KI7J+qn6CXR+CSGiynjL+X2G2C7PYxJfB8MMgWFoZS+I1RfJhpM1HeB/ebdar5fSuZG/xaeAYo9SC58wemShA5+nZZcPGJpnOzbdWmxzE89bi7dumcKe88USe+vdHU7gfKYvJyozNLCgOZ+Nhb4UrFzdGASBdq9XtTXNs9iwOhWgwE19T+JSX94tU69OXQbOesH4MxHW7mUnSUaKS5hjuO59fX9/4uerZGyCqsN+H3oJyB4YwM4R3vJAJKd7eCp7Q8EfUb7+H4+vbMKUrmkylePH+9dEHn/KHvh7eKj6sX6YGIbrKOPqvLM8zwu4Jaqz4PNiYdE2oNLoOvVt+jJayTnw6Nf7pabbWf1uJQvk4QiZw2i0Xb/UNUaKlieQuiJZX4A3IETec2vF9P+ogj2uUJi1eeiF9YfourjMjUXpP+rxwWz4zWyV8dy88kDTsF4TBGkuHuvU4I0V2GZIYd4F+UAmwd7gaZ/f3tn9rZdA810YLlUOjOODV4y6U2q6qHCgQYP9Ptl33KW5eu7FjBS/NLh5M+DOTMwnlAaPjPgSojPS4d7K/AuFagdSs77JwWA2wPH6IUvaUhFj75vp+3+WSmYa6rQ/DEAf6dQ3YWpK5FOf9gCYM9Bvxkwqi+8VtHn49e
+       properties :
+        width : 48
+        height : 48
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+           type : 14
+         -
+           code : |1-
+            
+           type : 18
+         -
+           type : 161
+           enabled : false
+     -
+       name : IMG_TPL_NAV_BAR
+       identifier : 0x286d0b6418077512
+       internal_properties : CAAAAAgAAAAeEeTgmO0wSYbUn7CVRjc6OqePJV2sgl3ihAXNVMSsUffX0aQbztEwD3NYFjBqBD39mqn3ERFPPK+8P3GIxr68S0Q4ZPuJHrN3DUrcbv7tjy1K0aU1X+8TfR7a0u0+80S+GzL9qONN34d7wmvtEVPXTJe3ZIC57Tcd1B4hpYQ9wA4CDonJtLKDnZdBzGhovVQJhFyxI1puu6wRejjqWysbLHoLETiXWS7CdsTKerPw5X8txcRvXWJDt0QIMGUt+NFv8sKcMnsCmdpb9jh6i1nftZhREahxVLQ+MchpCmt4WU3lpAPYL+V/rY9gsDaJEyaMveGbHm2UqGTVNjeyz+4Exh/ucL40MCZ0BMOycdZSxBFuGxYpI742EqUgqjMTZMFn4PABuT2LoWWFjiIj4ZMhpkOab7x/2Nu0DbS/ErReJcCEhqXv2T3llTNkNbrQxqACw3l+bOoIeHjqrJNT9vaCslLpWI5R7kdx1PTNaSdcC908yboHRsS3SwMy7YLmGMsWYc1uzaB8AiVbcnh/gxBNWanBBpSWxRgk+jIiVxREnRv2xIwCSymT+2u3FJyVAEY1wR0qfxAQrJovHVPdlIgOymHrr3rMgikkrg9LMfJj3zRDKYS9ORe8dPbhrGCXnk4+NpvTGjtMoj5rmsxw+1avZ+oN5X1IUHm9ZHMZY+9IgtRkHpBYooIm6RmkdONnQzasaMg3gxkY960+THBw8qjZY8bKvl1iNR3Qux6wFf5BosQtak+BpHRWieHknL34RT5vjfzT8Z9xtXbIUDMvBOwx9VpWR8eWiCF6AagF+/g58VviTIO8RUc4GSc8Kfsh9CBwa9FsR4ST/x2fXwtL2YEfnDkA1OtlldwkQafFhGNp8449dthkQNrrqbCUiFZUhFQupZwyzLpaiCUsHu5NJHWFpkfI5iTeqHpG8R5jgw==
+       properties :
+        width : 750
+        height : 48
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes :
+         -
+           type : 18
+           enabled : false
+     -
+       name : STC_TPL_TITLE
+       identifier : 0x286d0b6418087512
+       internal_properties : CAAAAAgAAAAnxwCr/K4wVbAtYYtp4kPj/WeyHw501AEwhb1Zk2Jxll7UZF4DqHqD4V0xQhS7mTiIKzpyiGfVKQFfgsEBpk2jse1/ao+0wiOv5I9iYK5UpnhXafl9VJiyJYmjdFtSqjgtHEA5ZqG9SbTQ33q5MsfcCcWIir1uUrF1HIcCmEzyxzSbTRcbz1cYmZmd58heJs6D24q45RhdaQ85L9BwIlP7YQmVEcsBVGoqDrH3xoDQr5ru7e5syGX67xaetvfyb+IFJ2JE6gD21y2CZUvknSQ98WPUhXAuo3XRSrVN3uB3hWX10GDXricG18kksViUDBQcXEvl3FUFfdpxfGImA6NLnrnuIcAPYY/5EzWUhc++RR58qRpJjrEmxwz0lph9a5R0HHg2YmBWicRtDLj93aovL0GXlDl/mOG0n9isqi/Ca2In0KeebPSj8AYmrhayBtl1zenR/AIDifY/gZk8uV9vxjhbuIzqrZiVzPzDNpNlsVCywUN/e7w=
+       properties :
+        x : 54
+        width : 452
+        height : 48
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes :
+         -
+           code : |1-
+            
+           type : 18
+    type : 42
+    code_elements :
+     type_code : 92
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x25f93ef806a45c55
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 91
+  p_codes : []
+  procedures :
+   -
+     name : BackMenuVisible
+     procedure_id : 1760075553516451090
+     type_code : 14
+     code : |1-
+      PROCEDURE BackMenuVisible(bVisible is boolean = True)
+      
+      	IF bVisible THEN
+      		
+      		BTN_BACK..Visible = True
+      		STC_TPL_TITLE..X  = BTN_BACK..X + BTN_BACK..Width + 6
+      		
+      	ELSE
+      		
+      		BTN_BACK..Visible = False
+      		STC_TPL_TITLE..X  = BTN_BACK..X + 6
+      		
+      	END
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : MDLC_SansNom1
+resources :
+ string_res :
+  identifier : 0x15f93ef8001a5c55
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

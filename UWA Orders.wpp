@@ -1,0 +1,153 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : UWA Orders
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Universal Apps application
+    internal_properties : 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
+    configuration_id : 1551450408854569004
+    type : 20
+    generation_directory : .\Exe
+    version :
+     major_version : 26
+     generation_version : 18
+    language : 2
+ elements :
+  identifier : 0x4139ea3300842c08
+  elements :
+   -
+     name : WIN_MAIN
+     identifier : 0x45f945a60339751e
+     internal_properties : CAAAAAgAAABKwLJWVRIaxY/5gyjs3eALWu2ZCTMzsx1zw9Wwe4oK5hI4yruNtsCJ8FVPqWlnE4VP1w==
+     physical_name : .\WIN_MAIN.wdw
+     type : 2
+   -
+     name : COL_ManageOrders
+     identifier : 0x413a0a140257b43d
+     internal_properties : CAAAAAgAAACKgPKWFVLahVgsHs3Zdf1aUiOZ8T2qzWuqwLJQ5C3vCfPTvNhEhLlNKRWPaSmnU0WPlw==
+     physical_name : .\COL_ManageOrders.wdg
+     type : 7
+   -
+     name : WINTPL_TPL_FORM
+     identifier : 0x45f95cba04ce9a92
+     internal_properties : CAAAAAgAAAA+JBYKuebO4esFtgQvrJ+9YGc/592FWRWoguB8Y4IS/vbIysAJM+eVzHFrVd0T7+ErKw==
+     physical_name : .\WINTPL_TPL_FORM.wdt
+     type : 18
+   -
+     name : WIN_FORM_PRODUCT
+     identifier : 0x4661a67703499b9a
+     internal_properties : CAAAAAgAAADoZtDM+6AIE969mnc4vtOyQMNf9zlpYq9KhYTiFQAclGCuw01Gu2hme6MdmxvVrSPtdQ==
+     physical_name : .\WIN_FORM_PRODUCT.wdw
+     type : 2
+   -
+     name : QRY_ContactHistory
+     identifier : 0x413f0b4f00b1953f
+     internal_properties : CAAAAAgAAAAacMLG5aIKFSj87j3pLa3aouP5oRx1MbpSSgsAQyV3oVvrRLB0VImdeaUfmRnXoxX/Bw==
+     physical_name : .\QRY_ContactHistory.WDR
+     type : 5
+   -
+     name : WIN_NEW_ORDER
+     identifier : 0x45f96840083c9ce9
+     internal_properties : CAAAAAgAAAAR7Uldahcf0Jg2409Yz3iPIWw4KJJSnjWmxkzcjbhalqKuPV/u2hZGvWJcpGxkHIx0/A==
+     physical_name : .\WIN_NEW_ORDER.wdw
+     type : 2
+   -
+     name : TPLC_ADDRESS
+     identifier : 0x45f9622c05c0dfc3
+     internal_properties : CAAAAAgAAADYtoCcK1DYg0mnauiO3ODuImN5oZHpIelIZsdTkGU34RsrmEd0SfOzLhONayulXVO9RQ==
+     physical_name : .\TPLC_ADDRESS.wdt
+     type : 20
+   -
+     name : TPLC_BRW_BAR
+     identifier : 0x45f93efe012473f4
+     internal_properties : CAAAAAgAAACKgPKWFVLahU+5XNwkUn41mq3ZyXPzcGFSmkYwe4qKZpK4OLt4SXXJMBWPaSmnU0WPlw==
+     physical_name : .\TPLC_BRW_BAR.wdt
+     type : 20
+   -
+     name : IW_CUSTOMERS
+     identifier : 0x45f93b43011be11e
+     internal_properties : CAAAAAgAAADEQiwIt+zE5/0rN2fYRVyL5psl9UkpYSp2oe5NDvcl0xEt8fA6h2w3oodxT9cJ8efRUQ==
+     physical_name : .\IW_CUSTOMERS.wdw
+     type : 8
+   -
+     name : IW_PRODUCTS
+     identifier : 0x45f93b350119acfe
+     internal_properties : CAAAAAgAAAAJBXEVks9nCNB+HjBnUjg0RxRS+rJKjueuMzw/XtfHAQsVK/E5wEUOdaoU7LQs1MQMFA==
+     physical_name : .\IW_PRODUCTS.wdw
+     type : 8
+   -
+     name : IWTPL_TPL_UWPAPP
+     identifier : 0x45f93afe0115d367
+     internal_properties : CAAAAAgAAACxjek9Crf/MDiWlbVdLJH3gzB+Nv6+uiC2kUs3Vq/nGSvFXPcTLgAmXcI8hAzEvCyUnA==
+     physical_name : .\IWTPL_TPL_UWPAPP.wdw
+     type : 8
+   -
+     name : IW_ORDERS
+     identifier : 0x45f93b2c011786c9
+     internal_properties : CAAAAAgAAABQroiUE0jg+0GvS0QkxROMBnlltQ+vL792Rc9sb5aGck6s2T3VbPC7JhuFczOtVUu1vQ==
+     physical_name : .\IW_ORDERS.wdw
+     type : 8
+   -
+     name : WIN_CUSTOMER_FORM
+     identifier : 0x4661a674033f90dc
+     internal_properties : CAAAAAgAAADxTSl9yve/8PmceddTJkMCsS5UhCQcg3SgDLCtfLlls02HPdiuC8XFmoJ8RMwE/OzUXA==
+     physical_name : .\WIN_CUSTOMER_FORM.wdw
+     type : 2
+   -
+     name : QRY_ORDERS
+     identifier : 0x46685f4300820fad
+     internal_properties : CAAAAAgAAADUsjx4Rzx0d8JodVVNWlaiiN+HT/hZS/eyEhrpdiJyrlbYlQp3SYqhr5cB/4d5AffBQQ==
+     physical_name : .\QRY_ORDERS.WDR
+     type : 5
+  other_elements : []
+  analysis : .\UWA Orders.ana\UWA Orders.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ languages :
+  - en-GB
+ wb_style_sheet : .\WSA Orders.wws
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      HModifyStructure("*")
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Universal Apps application
+     identifier : 0x4139ea3300852c08
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

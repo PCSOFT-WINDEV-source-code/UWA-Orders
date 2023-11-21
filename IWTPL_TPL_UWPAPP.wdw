@@ -1,0 +1,200 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IWTPL_TPL_UWPAPP
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IWTPL_TPL_UWPAPP
+ identifier : 0x286d0b60177a66f9
+ internal_properties : CAAAAAgAAABcR27lsovcUfJUkdQjMMBynJa0wgATKMs5ooumqNfevCeMEVmjUwuRj25QchkdV12Y5ug/wWd/TfJ7jAkhchSd74qZBb6qeSgVmBCr+koQVM7EyWPw+7taGw1DTAG0utpyPMODLcaMIv0DGKuqgSBiwr2xTgu62UYZ9c+QChqSH3Zbc4SKBIqy10IScSODKtY5irvQPAxW5SGBaCZz3PSlgfll2LhDPU8cTqZ+xSkNqdNwhW5SiQqUg8+l55iPEywL6QSUzeyNfFMdOLWxOh3B3t4uBGLsh5S9wRcwRl9rSNvgvjdPfXbxpt16JWf/q7YpWkrk1OV9bo/C6Xcr1an+lGn+/FVZgS0vXM35PE4rm8nNFs+NtTGro1Y10PakiKY/CL7hwau8zMYiry9WFzuNCskq/DbtkMwQt3KO8cEY3HOA+Rnkg4LORwO0cDqByC7IDtZmEvqpkSqhK5ou/vFdeKLwb4kwFiIjqNQkdGsQ+FnFATjeqShqNE/t7Hf1DQjNP6diVszBzUjYhJOQKZo+o0n5BC8Rz/sCjHKCQtTfgRqKIpZBa5YN5mxkP6LmC6sliS0KNDzHJSw5c/zK1TCkt9lJFiAqlXkrZTWze5FeDM0yp7wB5epmCxu34QErYJuLxbh+ktYDv66z6Vgyb3Ytmqow1C1nXW3U4a8+sdKkNGuDRqCzQcxNgWkhlvz1xhtQ7BXrBHB23iCfmn+REOcakxhvzG6q2AerY04a5hebkVHuK6whHl3c2JYp8O17AOyecp22GFMWX/TYQKXJHZYmABye6zxfdjSjAcyceDQyfH2Tl73aU882BlFVa+Qid0SDcTED7CCXsToq6aHRNmxYclW4cG/YS1RTp/KKXI9S1UUTMihvu6XTmLQ=
+ properties :
+  width : 593
+  height : 593
+ controls :
+  -
+    name : IWTPL_TPL_UWPAPP
+    identifier : 0x286d0b60177b66f9
+    internal_properties : CAAAAAgAAABoGDqtzNqBpU+hSP4V+Q7d05iwZqJc96sbFc3R9ufwNTS/ohxZcRMgmCIwFBOlyiWB9kkGc3z1uD6JJLb51+zfcZ5G1/8/wdTTDnExjm9WCPzYdo6ZW4v7STd3S4JpmgyFZin5K4zHrGm9kxqx1N3j6wGGpjAdNbGA83klF1KGALgbY52jhJvjR0uzLPXkMNJZ2d1cCW53SMY020TZWu39RwUwO/+CozXKWgU/Zy75Ks0YdL2m47tqit5gPuri+u+jQlqJH6eGdmkIwL15epSplIfIeecNCVgQQiYOM4EKbGkkguVfA8eD/cuz4l5mCH78Af/qbolCQ3CzKpzZajJCB+C8CqKK8mfx/NSd/NnBT7KC399JOCA3W87LSwReMeyRACV/nNoCzk3mpFWBCF1cQnjYMN6NYRRSrEhtoMrwU0IvfPB7oZNbDnJV4H9bC2oRsn5ZatoKVzwMy2DfOjTJjedNsSWmIIp4ZN9aG7iZV4Jh6Q==
+    properties :
+     width : 593
+     height : 593
+    controls :
+     -
+       name : CTPL_NAVBAR
+       identifier : 0x286d0b60177c66f9
+       internal_properties : CAAAAAgAAAAWlv4aMITI4XgsCHSVzYjrFZCuK+OQo+iXCKkYwjgtHxmrRJkMdkLxZ6D0uBbNUAjSBEc8KA4cir7L3xerxiG6atVhawUR0knDsrC0Q6r+STKwLOUZsqIZEOVyMu7G50IBpOZpRdL5qL6FbTAQyMp65ndL8PXY3um3OijSCEx2wj5jsMXhpdsz6YlKPRmHdaNdm0vOzUPAQ3R9EV04LC/I8dLsEso4m1MsbxgxPIRbJsABzM0aiGsA7IM2JXYzVSFIYUR4cop0ryuT6NSgo6ey7UHaqWhKMeKJ3EurupFAlFFDVvHN1C/vfROQKT+N5J4EeF8CpDO6BS3Y+so15BfmmfbwVJeyrCgiI9Z/H6WXIKyZWczCUQtM0amjiQ7/nBMCepRjl/E6XfFU7kZ0L7yl4j2zclRP17BQpyeQOhg1Rs3SOBVw0Y5q1oBksHQ/wP/qEUE6+4sBpRtBBbGgu1R/aAp5VG61Jrq1d1bW4winlfHPDAMUExlv/mozBPP+HXJ/IVUQ4yA9FJU11g8n92pL+DgHMmSvX8NY4c6c+7hoa2Qohpe20l93zcbdeWoFlK+IhhDBuOR93qoP+zQLSGIlwkJltoxqnb+yUrByfTXXHUcWqw6pdYsUqt4xjPcioMw7/5oiXAPkv7Z37ElqHJ79yxGvxYRv8BzQ2G+MBT75dBFvE6m4n5hnNZr5uXtankjuvEZQ023ipj2SNkZ4x+wCiIAf9K8UzMtOqLnYu4/GKGgmj1TL3LtRn7fde/a6T2AxUUxliPooztbLUvH0s7m/UaE4l2MZSrE1+qspW9pKt6hUwkJHY7PUKI5ltMtb7NtXqhfDtQEwNB4=
+       properties :
+        width : 593
+        height : 48
+       controls :
+        -
+          name : BTN_BACK
+          identifier : 0x286d0b60177f66f9
+          internal_properties : CAAAAAgAAACUucXl2mROsEEA0GI11NfXa+jl2fXztZBeGWBTGcVSx/Q1l1EE5n3qmCJbhx8DkOkSPMW1EIkJY+BtfJJZQG3jFObr6SNLnC93poGt8juCtW5YAy5oy3GTsD014rM/NhhqZtP7GM7LTINs902NWN0wvdqAUsd4ZvMtCMhwFmkAzwjTJDVTLHVRXHY23JuzDAt3BaJXNC4uZnb1EiJHmyxftFRjdFNQgTIfpwAEBkYPtniB3cMAKw9xrCFZA8MTyJ0+8KhY2CYth/ELKWNCQNM3X5pAXUFRjOe74GXZNz3Ur66FCE82LOgym4uqNUyoYz5ZWxKL1ca1cb6IPhUjJBGPNgDeOHZhy7iN7A+YOqfmLkSTaNI9cyCFdOEX8MnryXpfOgoYJCUip/AD+wTnXqacsyUeCvUvgSRGd9q+0BKZAFJ59aDnFPCsqqArAItobLr8RkgTnETAJBwRai6Ytn4/Nl1e/vMMbWRD+fnTdvVsqEhPsJOx0jMMwGAF3BypwUgsXF908lgOCXfVibzXK7/a0JXU1xp+maqAXWhA1eczPzJe/ruef6oVLBRXZQnxUKAeqj38m3osDIRAaXp4l6L3Y06+xGsi42K4EKhESzzDtcMUdBo0yB3VPEHu92mOj1h2MFOSo12zTmi8M9A9DktbXtCVdRBfGzpitZdzbvWZrzbT39e85VngFzG2TdpVxaLCrJ+xMrJ2mZS0FF0w7sF2GXPr4GlP3Y9FGl6v90A4GHWfz6X5S/46z4TdH8EA9P7Wva7sx2UDbKVIeUQDcUKzxbwYCyfX602d6zI9OJ8wRi8e7FFYON+loyvFn3Z1hWHgdcct0RhXyF9e2G6q6jTX8G55wUNMO4vXb6BKH6KNUcEe+vV+oPhgdiqrpRBahZ9kIcjGp72Yn37orR8T5JrsSrV/n26lN6j4IEtCtZFi47HX1wmAWF5EFPhdTub7WiazZtyZWEomaRyOLMygyzeJiA==
+          properties :
+           width : 48
+           height : 48
+          type : 4
+          code_elements :
+           internal_properties : CAAAAAgAAAAML46DJxb/Y3p0ZaqXImCVWYlEYC3EQlPiMCJlGToJHvhzhmAlOeZDveDsSscQ4DfUTKSgbJQL61l5PW8x+Tg93uUx/Hd1jqYBO+EDW3p1Ou6ohxZKU03VrkY=
+           type_code : 4
+           p_codes :
+            -
+              code : |1-
+               
+              type : 14
+            -
+              code : |1-
+               
+              type : 18
+            -
+              type : 161
+              enabled : false
+        -
+          name : IMG_TPL_NAV_BAR
+          identifier : 0x286d0b60177d66f9
+          internal_properties : CAAAAAgAAADQezTz366pN9lMocO8n59ZaF0ZnZBeCQnZmKMNMbtQBQ1mwerHjNcomx7qmmHFmEmPu+N3IoDfU9PNapvGZLRJFUX0sIIyVsBg+ch1/sSbe0kSDq9SL6amnbveDHCYgZLi5YZWlz1kavAc3dXzVDSPU1mNP5DmVoPjV2bgouEmU/xwvgxGHm0FLSscmcYuo/KMAA/mrEHw98ZVg14ddLqIUF3bh9SXy+kJlg/8YLlJ+NY+p93XKiDmjz/bCCAAnPpZbPnXOVILu3VC4PDEXJW/xKtwo35TddxNj4yoaMHKTtMcInWFetodicg3pAy9WVqK6EiIzK7jqk+UUgWyCVso9XJmj5NaWmc4uvYg7UgTwV/RBOu+z8N04/mM81PIKapaepiGez+k+epfH0jFJ8iqMs118hRnHd9Ab0a9vSMSWrjSbht2kJGm53isQ7RmIaQ2CFnGTaLA5IQzwimI3ugWYGla0qLzNOKJwUUn9BIGJTKq6YDxyw56GziWQgAJk+XsPKSrbXbtm7GWh92invADvKIOGRRvUxmbDph9tuEz2TQXrmhO5I8zpaU0iC0ZHdNRzAeEw8DsCTussjkFj1PoVlj9i4F00LQ+BxM3Jdp0a7JV88fZ00CMhYGlM+8+/e2jXGY8krZNPzp/iaZ6Z/4NHi26bqj8MQNMZgBUUspyhrsqgIQ7joKm5oYLeBJKSyAK3qIZKLhi2eyrK4FXK/7LXepOslHMmIFwqwywzO3x1HJN4jk1MCgDvM/ZROQjmboEmqT9MDghIAFMgleDet1qJmD5uX+B2+zsBNpcqZxy0uhXPkgeXo3g9smJ8sxoGGpo+bb/ikR/FZ2GNAR+S09TMaKOpxdRcjj0ms79sVbK8X70FY9pUZqPqWG9z+xWkrDSrQv9Y8FWfBli5nsrxT/3OUlxIuTACjpLa14sHZGFeU81J6uL2z30MOkDSqIXBi/rURL1LKKWlH+2YDhbvdvDvsqoF0t2n9MKpl7AxbF/snQYAe0KXaSA1VME5hVZoBwwEL4srzeT6TD6q6+Wf/EENz8=
+          properties :
+           width : 593
+           height : 48
+          type : 8
+          code_elements :
+           internal_properties : CAAAAAgAAAABVIOEKBf+YnVtbKGcL11oYm6lQc7lrTJFEYKFYZJ3lHLPdpiBhTYbC8zcetcJeV5fMYNZd7EswmR+MEwgKhkcP0aSG1ZWbYcmEDb2Vn9uMeehiBVJXFTao0s=
+           type_code : 8
+           p_codes :
+            -
+              type : 18
+              enabled : false
+        -
+          name : STC_TPL_TITLE
+          identifier : 0x286d0b60177e66f9
+          internal_properties : CAAAAAgAAAC2uJj8VtR5U0z5ubtEfg+LMg5ekDsVCOyDQCn+ogduMd8nFnnxdo8qBDzRX+EZl56YIj4clw+9XwDg3hbpCOJw62sTjCthFHYpqkbAng++cBU8ZuuJfb6/yyB1Pn3jOJe7vMXm49x9NT4PnIEjxoHhaNAcNiWzml1NPlqiSxHWlyD1RBcpfauJ6zQ1mbHUizpiv3DuFCuYKzIuv67IugQNZrJjcLD9oyAjH0qmglr6hzJIGvQ3B1gry/SuSY7soAFoWfTcN5ZthbYdTe1Wr2I7c8g4zlUUe/1WxcK92J9N6xPHzy/ZWT+8V61EWikqTBY/yumsRoHLiV+ysl2G+3vUuwF73zgAKRpzK3jDJQjkuUkFl9+INs6O63Po05bR+aZYPQxrmsyRnQW99FfbIpOXU1hkh6JH9b3/UevEFpqDgLJTxbxaFWZaEEeCXGi4sRbwudbNNsxCyFGl5zSwN++cWVWZZuiVmqkCZVh2BDUJ9M0ZsaKsyN1AYug8oDXl0DlButOBYe6x71xKKJt2R2R13QKlvwcwxsxYnSnYtACA+WLJizy1CeP8W33g9x2KVQR2/kXSkw/M24wP/nzMNdZR3+42p0l2sNzDPU/mzfFyNUiRrQ==
+          properties :
+           x : 54
+           width : 295
+           height : 48
+          type : 3
+          code_elements :
+           internal_properties : CAAAAAgAAADlyCfYnNtSzklRoNVgcxEkLloRXfrhmRYhXR4B7R4jWDbTCpyVuSoXO2ykGu/tjUqjlX9dc70wxnhCdACcrp2gI6J2J1pKWfNSzHKyCqu6/dOV9LmVCPh+B+8=
+           type_code : 2
+           p_codes :
+            -
+              code : |1-
+               
+              type : 18
+       type : 43
+       code_elements :
+        internal_properties : CAAAAAgAAADwCzlXJyTlncPtAt3Pyfzei/9lKULYSr6GDeqapHZQyVZvGzU7q7di+ODH/5gKbDucDPL7wYE4L+DvhzXoLpZi3dWGROHJaICcrV65VFQHeoE65ZcECZp81Lmx
+        type_code : 93
+        p_codes :
+         -
+           code : |1-
+            
+         -
+           code : |1-
+            //Runs the process defined in the template
+            ExecuteAncestor
+           type : 14
+         -
+           code : |1-
+            //Runs the process defined in the template
+            ExecuteAncestor
+           type : 234
+         -
+           code : |1-
+            //Runs the process defined in the template
+            ExecuteAncestor
+           type : 15
+         -
+           code : |1-
+            //Runs the process defined in the template
+            ExecuteAncestor
+           type : 16
+         -
+           code : |1-
+            //Runs the process defined in the template
+            ExecuteAncestor
+           type : 43
+         -
+           code : |1-
+            //Runs the process defined in the template
+            ExecuteAncestor
+           type : 42
+         -
+           code : |1-
+            //Runs the process defined in the template
+            ExecuteAncestor
+           type : 17
+        procedures :
+         -
+           name : BackMenuVisible
+           internal_properties : CAAAAAgAAAB5R+oRZ+pR0kav3xWUvv3Ksgu+75RmJgV3gZF2PfjO3voie35Skv8EGS19jSLjrCTffvnYRpA6IbgnaFmL8Pn7H2iquReUURlJ4VycVjh1G7Af3QajL39NebLALk+QbYttO9Ed5AAmQR+qnEai
+           procedure_id : 1760075536335202041
+           type_code : 14
+           code : |1-
+            PROCEDURE BackMenuVisible(bVisible is boolean = True)
+            
+            	IF bVisible THEN
+            		
+            		BTN_BACK..Visible = True
+            		STC_TPL_TITLE..X  = BTN_BACK..X + BTN_BACK..Width + 6
+            		
+            	ELSE
+            		
+            		BTN_BACK..Visible = False
+            		STC_TPL_TITLE..X  = BTN_BACK..X + 6
+            		
+            	END
+           type : 458752
+        templates :
+         -
+           name : CTPL_NAVBAR
+           identifier : 0x1557a29301205bca
+           code_elements :
+            internal_properties : CAAAAAgAAABzQrXKnt1UxFM7mv9apavOtPQ//1SbI6zDFyrRUYqP/MYHpnQhLY5fd5Q0Hq9LX0Sl+0kD3QuKgDqojt62jF+avcQQndDc9xG8ZpxI4MWg5z1/7r+TCgYMkXk=
+            type_code : 93
+            p_codes : []
+        procedure_templates : []
+        property_templates : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1-
+         PROCEDURE MyWindow(gbPreviousMenuVisible is boolean = False, gPreviousMenuCallback is PROCEDURE = Null)
+      -
+        code : |1-
+         
+         CTPL_NAVBAR.BackMenuVisible(gbPreviousMenuVisible)
+         CTPL_NAVBAR.BTN_BACK..Process[trtClick] = gPreviousMenuCallback
+        type : 14
+ menu :
+  name : _Menu
+  identifier : 0x25f93a9406403612
+  internal_properties : CAAAAAgAAAAjoO+VYAXYh2SYpTvD7AgXCHEHRjuTd5K/qNR3zUpM1aIlQYejrbtK76/LWLozAhgdmcRuoxDXe7vi3lf8PoZYYzNtPYlgCK9AarNrSCSSPpGDp+KLIikSwO2L+lCfwFobS8WKQZu2noN9WV5ipxuLKjTaOvfojbcmu1i6FPrF8FEPa+oQBHdRyMYNLYyLF/nTGn2y7NBixG5dC7y2wsO4aXA1CKpzZUca8sBJUrSr9FqhTJMK37pOOZqMTeCIo+trbOMI1osTdzjD26auXrzETrP8OxsAt+HgvahLwDb4kRpR6lQOjBIj
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADgB0D5+3hSsGOFQ81jKn57TWZQ9hV/OUAr1d2wKXoeZNo1uJ0rNml5Fr/BD4YxxYj9bmR5Fnalh1hCHXGyQpbldc64uruWlqhy2mhIHK+JL5QbC/oVgg==
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAADfQqGr49DndyWZp7UJdnAGDVP1STNOCS/3oqKtDHq4JxLC1wlgNxroEiHXmdEBvnB1k7IyStg0q7gMHCBrYAgISVEqFJ6aBfoopbqfgMKZvVJiR9bCKr5P
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x15f93afe000bd338
+  internal_properties : CAAAAAgAAAAsLoE2CiUCO2YPoPMKDvgpAhAwvQPH6y+y+gJHr0rDGz2ZV4rIsFrfl2i1VIlS5Ns7Ow==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
